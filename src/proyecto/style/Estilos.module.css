@@ -1,0 +1,27 @@
+body{
+    background-color: azure;
+}
+h1{
+    color: gold;
+    width: auto;
+    display: flex;
+    justify-content: center;
+}
+
+nav{
+    padding: 2PX;
+    margin: 20PX;
+    border: 2px solid red;
+}
+img{
+    border-radius: 5%;
+    border: solid red 1px;
+}
+main{
+    max-width: 800px;
+    width: 90%;
+    margin: auto;
+    padding: 40px;
+    box-sizing: border-box;
+    
+}
